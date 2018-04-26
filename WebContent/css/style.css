@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+.header{
+	background-color: #c3f9ff;
+	height: 85px;
+	padding: 10px;
+}
+
+h3 {
+	color:#406098;
+	t-indent: 50px;
+}
+
+h4 {
+	color:#406098;
+	t-indent: 50px;
+	font-family:"Roboto";
+	font-weight:400;
+	font-display:block;
+}
+
+p {
+	color:#406098;
+}
+
+.menu{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.footer{
+	background-color: #c3f9ff;
+	padding: 5px; 
+	text-align: center; 
+	margin-top: 10px;
+}
+
+body{
+}
+
+.warehouseTable{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;	
+}
+
+.editClientTable{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;	
+}
+
+.addnewBill{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;	
+}
+
+.billTable{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;	
+}
+
+.editBillTable{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;	
+}
+
+.clientsTable {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 14px;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+th, td:first-child {
+	background: #D8E6F3;
+	color: black;
+	padding: 10px 20px;
+}
+
+th, td {
+	border-style: solid;
+	border-width: 0 1px 1px 0;
+	border-color: white;
+	padding: 10px 20px;
+}
+
+td {
+	background: #D8E6F3;
+}
+
+th:first-child, td:first-child {
+	text-align: left;
+}
