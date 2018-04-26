@@ -1,21 +1,22 @@
-/build/
-#
-# Default excludes
-#
+# Compiled class file
+*.class
 
-# Binaries
-*.7z
-*.dmg
-*.gz
-*.iso
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
 *.jar
-*.rar
-*.tar
-*.zip
 *.war
 *.ear
-*.sar
-*.class
+*.zip
+*.tar.gz
+*.rar
 
 # eclipse project file
 .settings/
